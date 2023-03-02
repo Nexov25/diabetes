@@ -20,5 +20,11 @@ List Fitur Yang Tersedia
 5. Beli Premium pake saldo deposit
 6. Custom YouTube download Resolusion
 7. AntiKasar Untuk Group
-8. 
+8. Nsfw Menu
+9. ImageMarker
+10. Game Menu
+11. Anonymous Chats
+12. Downloader Menu
+13. Tools Menu
+14. Audio Changer
 ```

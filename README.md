@@ -27,4 +27,10 @@ List Fitur Yang Tersedia
 12. Downloader Menu
 13. Tools Menu
 14. Audio Changer
+15. Searching Menu
+16. Owners Menu
+17. Group Menu
+18. Stalkers Menu
+19. Random Image
+20. Ephoto, Photooxy, TextPro Menu
 ```
